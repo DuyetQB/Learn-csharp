@@ -12,7 +12,7 @@ namespace LearnC
         {   
             for(int i = 0; i < n; i++)
             {
-                Console.WriteLine("I love you 3000" + i+"\n");
+                Console.WriteLine("I love you 3000 hehe" + i+"\n");
             }
         }
         static void Main(string[] args)
